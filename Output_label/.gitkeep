@@ -1,0 +1,2 @@
+# This file ensures the Output_label directory is tracked by Git
+# Label maps will be placed here when return_label=True

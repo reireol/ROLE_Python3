@@ -112,17 +112,13 @@ ehthumbs.db
 Thumbs.db
 
 # Project specific
-Output_image/*.jpg
-Output_image/*.png
-Output_label/*.jpg
-Output_label/*.png
 test_output*.jpg
 test.bmp
 temp_*.bmp
 
-# Keep directory structure
-Output_image/.gitkeep
-Output_label/.gitkeep
+# Keep directory structure but include sample images
+# Output_image/.gitkeep
+# Output_label/.gitkeep
 
 # Temporary files
 temp/
